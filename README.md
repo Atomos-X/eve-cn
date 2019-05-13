@@ -5,3 +5,7 @@
 2. install shadowsocks ...
 
 3. add custom keyboard layout for pixelbook
+  reboot
+  
+  choose new keyboard
+  ![new keyboard layout for eve](keboard.png)
