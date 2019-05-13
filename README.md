@@ -8,4 +8,4 @@
   reboot
   
   choose new keyboard
-  ![new keyboard layout for eve](keboard.png)
+  ![new keyboard layout for eve](keboard.png?raw=true)
