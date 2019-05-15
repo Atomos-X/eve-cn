@@ -8,7 +8,7 @@
 
 4. lib目录内文件仅仅修改了google助理键盘为 Leftmeta  
   usr目录内是自定义的Pixelbook的键盘，如有需要可以修改symbols/eve文件  
-  暂未有自动化脚本，**请勿直接拷贝替换文件，以免出现错误**  
+5. 暂未有自动化脚本，**请勿直接拷贝替换文件，以免出现错误**  
 
   ![new keyboard layout for eve](https://raw.githubusercontent.com/Lyuzonggui/eve-cn/master/keyboard.png)
 
